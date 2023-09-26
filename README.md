@@ -64,4 +64,4 @@ $$ZEE_LICENSE
 
 ## Изображение
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://drive.google.com/file/d/1UkmW4XijyV_VlIs7ak6VYiwAeGK1kDPk/view?usp=sharing "a title")
