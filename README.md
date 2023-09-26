@@ -61,3 +61,7 @@ $$ZEE_LICENSE
         - Элемент третьего уровня списка 1 
         - Элемент третьего уровня списка 2 
         - Элемент третьего уровня списка 3
+
+## Изображение
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
