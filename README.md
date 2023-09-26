@@ -64,4 +64,4 @@ $$ZEE_LICENSE
 
 ## Изображение
 
-![Alt text](https://drive.google.com/file/d/1UkmW4XijyV_VlIs7ak6VYiwAeGK1kDPk/view?usp=sharing "a title")
+![Alt text](https://memchik.ru//images/memes/627a3972b1c7e3017a618cae.jpg "a title")
